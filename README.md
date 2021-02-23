@@ -1,5 +1,4 @@
 ```markdown
-<img width="auto" src="">
 
 # Lucas Garavaglia
 
